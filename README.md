@@ -1,5 +1,7 @@
 # Deep learning vs Fine-Gray for competing-risks mortality (NHANES 2005–2018)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23483910.svg)](https://doi.org/10.5281/zenodo.23483910)
+
 Does a deep-learning survival model (**DeepHit**) predict cause-specific death better than the classical **Fine-Gray** subdistribution hazard model?
 
 This repository holds the full analysis pipeline for my MSc thesis in Bioinformatics and Biostatistics (Universitat Oberta de Catalunya, 2026). The thesis is in [`docs/thesis_deephit_vs_finegray.pdf`](docs/thesis_deephit_vs_finegray.pdf).
@@ -161,6 +163,8 @@ Machado Castro, M. Â. (2026). Deep Learning for Competing Risk Analysis: A Comp
 DeepHit and Fine-Gray Models in Multi-Cause Mortality Prediction. MSc thesis,
 Universitat Oberta de Catalunya.
 ```
+
+Code archived on Zenodo: [10.5281/zenodo.23483910](https://doi.org/10.5281/zenodo.23483910).
 
 ## License
 
