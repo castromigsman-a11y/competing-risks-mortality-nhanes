@@ -1,0 +1,17 @@
+# Generated data (rebuild with part1 -> part2_5)
+*.csv
+*.pkl
+*.dat
+
+# Generated outputs
+/*.png
+stage1_console_summary.txt
+calibration_console_summary.txt
+
+# Python / R
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
