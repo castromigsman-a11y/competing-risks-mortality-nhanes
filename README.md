@@ -157,7 +157,7 @@ All random seeds are fixed at 2024.
 ## Citation
 
 ```
-Castro, M. A. M. (2026). Deep Learning for Competing Risk Analysis: A Comparative Study of
+Machado Castro, M. Â. (2026). Deep Learning for Competing Risk Analysis: A Comparative Study of
 DeepHit and Fine-Gray Models in Multi-Cause Mortality Prediction. MSc thesis,
 Universitat Oberta de Catalunya.
 ```

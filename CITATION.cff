@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the thesis below."
+type: software
+title: "Competing-risks mortality prediction on NHANES: DeepHit vs Fine-Gray"
+abstract: >-
+  Analysis pipeline comparing the DeepHit deep-learning model with the
+  Fine-Gray subdistribution hazard model for cardiovascular and cancer
+  mortality in the NHANES 2005-2018 cohort linked to the NCHS mortality files.
+authors:
+  - family-names: Machado Castro
+    given-names: Miguel Ângelo
+repository-code: "https://github.com/castromigsman-a11y/competing-risks-mortality-nhanes"
+license: MIT
+keywords:
+  - competing risks
+  - survival analysis
+  - DeepHit
+  - Fine-Gray
+  - NHANES
+  - SHAP
+preferred-citation:
+  type: thesis
+  thesis-type: "Master's thesis"
+  title: "Deep Learning for Competing Risk Analysis: A Comparative Study of DeepHit and Fine-Gray Models in Multi-Cause Mortality Prediction"
+  authors:
+    - family-names: Machado Castro
+      given-names: Miguel Ângelo
+  institution:
+    name: "Universitat Oberta de Catalunya"
+  year: 2026
+  month: 6
+  url: "https://github.com/castromigsman-a11y/competing-risks-mortality-nhanes"
