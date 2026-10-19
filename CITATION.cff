@@ -11,6 +11,8 @@ authors:
     given-names: Miguel Ângelo
 repository-code: "https://github.com/castromigsman-a11y/competing-risks-mortality-nhanes"
 license: MIT
+version: 1.0.0
+date-released: "2026-10-19"
 keywords:
   - competing risks
   - survival analysis
